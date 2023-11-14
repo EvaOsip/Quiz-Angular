@@ -1,0 +1,29 @@
+.main {
+  padding-top: 190px;
+  padding-bottom: 231px;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .main-content {
+      max-width: 588px;
+
+      .main-description {
+        font-size: 20px;
+        line-height: 24px;
+        max-width: 486px;
+        margin-bottom: 60px;
+        margin-top: 40px;
+      }
+
+      .main-button {
+        margin-top: 60px;
+      }
+    }
+  }
+}
+
+
+
